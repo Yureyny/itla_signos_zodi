@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zignos", "zignos\zignos.csproj", "{B614B9A0-A1F1-40EA-A294-852A96A6030C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B614B9A0-A1F1-40EA-A294-852A96A6030C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B614B9A0-A1F1-40EA-A294-852A96A6030C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B614B9A0-A1F1-40EA-A294-852A96A6030C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B614B9A0-A1F1-40EA-A294-852A96A6030C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F735E598-D0BA-479D-9DD3-76CB572C99C5}
+	EndGlobalSection
+EndGlobal
